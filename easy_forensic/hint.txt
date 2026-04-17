@@ -1,0 +1,10 @@
+Internal Notes:
+
+- Backup system updated
+- Encoding method still in use
+- First segment:
+
+c2VjdXJlX
+
+Possible old keys (deprecated):
+dGhpcy1pcy1ub3QtdGhlLXBhc3N3b3Jk

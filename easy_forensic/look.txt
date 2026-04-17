@@ -1,0 +1,13 @@
+[INFO] System initialized
+[DEBUG] Checking backup routines
+
+[INFO] Last segment recovered:
+2JhY2t1cF8yMDI2
+
+[WARNING] Legacy key detected:
+bm90X3RoZV9rZXk=
+
+[DEBUG] Testing fallback password:
+cGFzc3dvcmQxMjM=
+
+[INFO] No further anomalies
